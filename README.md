@@ -1,3 +1,3 @@
-# StepShot privacy policy
+# ReproShot privacy policy
 
-Source for https://stechnologies808.github.io/stepshot-privacy/
+Source for https://stechnologies808.github.io/reproshot-privacy/
